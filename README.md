@@ -1,5 +1,11 @@
 # OCR and Translation Web Application
 This project integrates Optical Character Recognition (OCR) using Azure Cognitive Services and text translation using the Google Translate API into a full-stack web application. The frontend is built with React, and the backend is built using Node.js and Express. Users can upload an image, extract the text using OCR, and then translate the extracted text into a specified language (e.g., Spanish).
+# ScreenShots
+<img width="1509" alt="Screenshot 2024-10-18 at 6 26 28 PM" src="https://github.com/user-attachments/assets/b0be7052-d414-43da-b92a-607b41af520b">
+<img width="1509" alt="Screenshot 2024-10-18 at 5 30 49 PM" src="https://github.com/user-attachments/assets/eef4db46-0f2a-4d64-a28f-c2ee43bef406">
+<img width="1509" alt="Screenshot 2024-10-18 at 5 29 45 PM" src="https://github.com/user-attachments/assets/2fe420f0-f9d9-47f4-ab97-512f30cd7a12">
+<img width="573" alt="Screenshot 2024-10-18 at 2 59 11 AM" src="https://github.com/user-attachments/assets/216ee572-cc90-4e8a-8d05-73227d38ead8">
+
 
 # Features
   - Upload an image to the web app.
