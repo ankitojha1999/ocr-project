@@ -37,7 +37,7 @@ To run this project, ensure you have the following installed:
   - Copy the generated API key for use in the backend.
 ## 3. Backend Setup
   - Clone the repository or download the project files.
-  -     git clone https://github.com/your-username/ocr-translation-project.git
+  -     git clone https://github.com/ankitojha1999/ocr-project.git
   -     cd ocr-backend
 Install the required dependencies:
   -     npm install
